@@ -12,7 +12,7 @@ Suivez ces étapes pour exécuter le projet sur votre machine :
 2. [instructions d'installation de Flutter](https://flutter.dev/docs/get-started/install).
 
 2. Clonez ce référentiel sur votre machine :
-git clone https://github.com/votre-nom/projet_grh.git
+git clone https://github.com/Florentgbm/projet_grh.git
 3. Naviguez vers le répertoire du projet :
    cd projet_grh
 4. Exécutez l'application en utilisant Flutter :
